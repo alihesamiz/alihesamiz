@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **backend & API projects**  
 - 🌱 Learning **advanced Django, FastAPI, and cloud deployment**  
 - 💡 Interested in **backend architecture, scalable APIs, and DevOps**  
-- 📫 Reach me at: **alihesami.dev@gmail.com**  
+- 📫 Reach me at: **alihesami.dev@gmail.com**   
 
 ---
 
